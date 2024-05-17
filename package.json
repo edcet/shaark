@@ -12,7 +12,7 @@
     "devDependencies": {
         "@fortawesome/fontawesome-free": "^5.11.2",
         "@toast-ui/vue-editor": "^1.1.1",
-        "axios": "^0.18",
+        "axios": "^1.6",
         "babel-runtime": "^6.26.0",
         "bootstrap": "^4.4.1",
         "cross-env": "^5.2.1",
@@ -35,7 +35,7 @@
         "vue-toasted": "^1.1.27",
         "vuedraggable": "^2.23.2",
         "https-proxy-agent": "^2.2.3",
-        "serialize-javascript": "^2.1.1"
+        "serialize-javascript": "^6.0.2"
     },
     "dependencies": {
         "@nesk/puphpeteer": "^1.6.0"
